@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Screenshot 2022-01-22 at 06-52-44 Frontend Mentor FAQ Accordion Card.png)
-![](images/Screenshot 2022-01-22 at 06-53-45 Frontend Mentor FAQ Accordion Card.png)
+![](/Users/keytronbrown/Downloads/faq-accordion-card-main/images/Screenshot 2022-01-22 at 06-52-44 Frontend Mentor FAQ Accordion Card.png)
+![](/Users/keytronbrown/Downloads/faq-accordion-card-main/images/Screenshot 2022-01-22 at 06-53-45 Frontend Mentor FAQ Accordion Card.png)
 
 ### Links
 
