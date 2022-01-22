@@ -1,0 +1,68 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+body {
+    flex-direction: column;
+    background-image: linear-gradient(hsl(273, 75%, 66%), hsl(240, 73%, 65%));
+    font-family: 'Kumbh Sans', sans-serif;
+    box-sizing: border-box;
+    font-size: 12px;
+
+    @media #{$brk-wide} {
+    display: flex;
+    min-height: 100vh;
+    margin: 0%;
+    @include center;
+    z-index: 1;
+    }
+
+}
+
+h1 {
+    text-align: center;
+    margin: 1rem auto;
+    color: hsl(238, 29%, 16%);
+
+    @media #{$brk-wide} {
+        text-align: left;
+    }
+}
+
+main {
+    background-color: white;
+    width: 340px;
+    height: 530px;
+    border-radius: 20px;
+    display: flexbox;
+    @include center;
+    margin: auto;
+
+    @media #{$brk-wide} {
+        display: flex;
+        width: 65%;
+        height: 70%;
+    }
+}
+
+hr {
+    color: hsl(240, 5%, 91%);
+    opacity: 25%;
+    margin-top: 10px;
+
+    @media #{$brk-wide} {
+        width: 103%;
+    }
+}
+
+a:hover {
+    color: hsl(14, 88%, 65%);
+}
+
+
+
+

@@ -1,0 +1,9 @@
+@mixin center {
+    align-items: center;
+    justify-content: center;
+}
+
+@mixin block-position {
+    display: block;
+    position: absolute;
+}
