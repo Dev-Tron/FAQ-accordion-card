@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![](https://github.com/Dev-Tron/FAQ-accordion-card/blob/main/images/Screenshot%202022-01-22%20at%2006-52-44%20Frontend%20Mentor%20FAQ%20Accordion%20Card.png)
-![](/Users/keytronbrown/Downloads/faq-accordion-card-main/images/Screenshot 2022-01-22 at 06-53-45 Frontend Mentor FAQ Accordion Card.png)
+![](https://github.com/Dev-Tron/FAQ-accordion-card/blob/main/images/Screenshot%202022-01-22%20at%2006-53-45%20Frontend%20Mentor%20FAQ%20Accordion%20Card.png)
 
 ### Links
 
